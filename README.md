@@ -1,4 +1,4 @@
-# MNIST Classifier
+## MNIST Classifier
 
 Deep learning can be considered as a subset of Machine Learning where the model learns and improves on its own by examining computer algorithms.
 
